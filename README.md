@@ -1,3 +1,3 @@
 # Taxi-Demand-Prediction-in-New-York-City
-Machine Learning Project
+Machine Learning Project<br>
 Status - incomplete
